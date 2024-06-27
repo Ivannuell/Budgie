@@ -1,2 +1,2 @@
 # Budgie
-Your budget buddy. helps you manage and plan your budget ahead.
+Your friendly budget buddy that helps you manage and plan your budget ahead.
